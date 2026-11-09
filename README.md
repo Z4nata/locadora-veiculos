@@ -32,4 +32,4 @@ Sistema web para gerenciar uma locadora de veículos. O backend é escrito em Ty
 
 ## Equipe
 
-- Nome do integrante
+- Felipe Pinto Zanata
