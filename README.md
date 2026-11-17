@@ -30,6 +30,18 @@ Sistema web para gerenciar uma locadora de veículos. O backend é escrito em Ty
 - React + Vite (interface)
 - Vitest (testes automatizados)
 
+## Como rodar
+
+Requer Node.js 24 ou mais recente.
+
+```bash
+cd backend
+npm install
+npm test
+```
+
+Outros comandos do backend: `npm run test:coverage` (cobertura dos testes) e `npm run typecheck` (checagem de tipos).
+
 ## Equipe
 
 - Felipe Pinto Zanata
